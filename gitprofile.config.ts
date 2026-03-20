@@ -74,7 +74,7 @@ const CONFIG = {
     email: 'robinsongoodness4@gmail.com',
   },
   resume: {
-    fileUrl:
+    fileUrl:''
        // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
